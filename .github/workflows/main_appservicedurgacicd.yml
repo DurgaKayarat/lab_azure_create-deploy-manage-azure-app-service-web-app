@@ -54,4 +54,4 @@ jobs:
           app-name: 'AppServiceDurgaCICD'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5968D3F818F94ACAAE42A93D2F2041A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68DACB6ABC7346DCB20CEFFFDCD9B935 }}
